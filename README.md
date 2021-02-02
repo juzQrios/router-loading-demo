@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+> Given that the routes load extremely quick, you could barely notice the loading indicator. But I can assure you, it's working. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
